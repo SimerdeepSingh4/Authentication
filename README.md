@@ -57,7 +57,7 @@ This project is an implementation of an advanced authentication system using Nod
 
 1.  **Clone the repository:**
     ```bash
-    git clone https://github.com/your-username/your-repo-name.git
+    git clone https://github.com/SimerdeepSingh4/Authentication.git
     cd your-repo-name
     ```
 
